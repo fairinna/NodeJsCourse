@@ -1,0 +1,1 @@
+Now we are create and write that: Hello this is first text file and Hello this is second txt file
