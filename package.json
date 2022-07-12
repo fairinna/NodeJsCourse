@@ -1,0 +1,25 @@
+{
+  "name": "nodejscourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairinna/NodeJsCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fairinna/NodeJsCourse/issues"
+  },
+  "homepage": "https://github.com/fairinna/NodeJsCourse#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
